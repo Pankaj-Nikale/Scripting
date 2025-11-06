@@ -7,5 +7,5 @@ then
 echo "a is greater than b"
 else
 echo "a is smaller than b"
-fi
+echo "i am praticing git and preforming its practical"
 
