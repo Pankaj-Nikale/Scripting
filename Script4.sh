@@ -4,4 +4,5 @@ Class=Young-minds
 Batch=25
 PROFESSION=AWS/DevSecOps/Azure DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
+echo "resolving merge conflict"
 echo "creating merge conflict"
